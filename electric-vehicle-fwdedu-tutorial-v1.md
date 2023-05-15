@@ -1,5 +1,6 @@
 # Electric Vehicle CAK V2.1 fwdEDU
 ```package
+fwd-edu-breakout=github:climate-action-kits/pxt-fwd-edu/fwd-breakout
 ```
 ## @showhint
 Add ``||cakLandServos:turn servo at P1 to degrees 35||`` block from the ``||cakLandServos:Servo||`` drawer
